@@ -4,6 +4,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/cruvss/cruvss/stats-output/stats.svg" height="180" alt="stats graph"  />
+  <img width="20" />
   <img src="https://raw.githubusercontent.com/cruvss/cruvss/languages-output/languages.svg" height="180" alt="languages graph"  />
 </div>
 
