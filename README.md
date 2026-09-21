@@ -13,9 +13,9 @@
 
 ###
 
-<!-- Hardcoded Languages & Technologies Stack -->
+<!-- Full Stack & Languages from Sachin's Resume -->
 <div data-importer="techs" align="left">
-  <!-- Programming Languages -->
+  <!-- Core Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" title="Python" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo" title="Java" />
@@ -30,7 +30,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo" title="Bash" />
   <img width="10" />
-  <!-- AI / ML & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" title="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo" title="CSS3" />
+  <img width="10" />
+  <!-- AI / ML & Computer Vision -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="pytorch logo" title="PyTorch" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="tensorflow logo" title="TensorFlow" />
@@ -41,8 +45,12 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring boot logo" title="Spring Boot" />
   <img width="10" />
-  <!-- Databases & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="angular logo" title="Angular" />
+  <img width="10" />
+  <!-- Databases (SQL & NoSQL) & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo" title="PostgreSQL (SQL)" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" title="MySQL (SQL)" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo" title="MongoDB" />
   <img width="10" />
