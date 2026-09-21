@@ -3,8 +3,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/cruvss/cruvss/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/cruvss/cruvss/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/cruvss/cruvss/stats-output/stats.svg" height="180" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/cruvss/cruvss/languages-output/languages.svg" height="180" alt="languages graph"  />
 </div>
 
 ###
