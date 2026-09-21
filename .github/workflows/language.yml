@@ -22,7 +22,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=cruvss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false
+          # Show up to 12 languages across repositories with expanded card width
+          options: username=cruvss&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=dracula&hide_border=false
           path: dist/languages.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
