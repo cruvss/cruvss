@@ -85,6 +85,14 @@
 
 ###
 
+<h3 align="left"> What I'm Working On</h3>
+
+- **Job CRM:** An end-to-end application tracking system to manage job pipelines, interview stages, and follow-ups.
+- **Uni Track:** A centralized tracker to streamline university shortlisting, scholarship deadlines, and graduate admissions.
+- **Personal Assistant:** An intelligent agent leveraging LLMs and RAG for automated workflows, daily scheduling, and knowledge retrieval.
+
+###
+
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/cruvss/cruvss/snake-output/snake.svg" alt="Snake animation" />
